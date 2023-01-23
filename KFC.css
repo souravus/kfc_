@@ -1,0 +1,385 @@
+*{
+   
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+   
+   
+}
+body{
+        margin: 0;
+        font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans","Liberation Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+        font-size:1rem;
+        font-weight: 400;
+        line-height: 1.5;
+        color: #212529;
+        text-align: left;
+        background-color: #fff;   
+}
+
+.header{
+    margin-left:0px;
+    margin-right:0px;
+    display:flex;
+}
+.location{
+    width:12px;
+    margin-left:372px;
+    margin-top:11px;
+
+}
+.para{
+    margin-left: 13px;
+    margin-top: 17px;
+}
+.btn1{
+        cursor:pointer;
+        display:inline-block;
+        background-color:black;
+        border:1px #000 solid;
+        border-radius:50px;
+        padding:7px 16px;
+        line-height: 1.2;
+        text-align: center;
+        text-decoration: none;
+        border-color:black;
+        color:white;
+        font-weight: 550;
+        margin-left: 12px;
+        margin-top: 14px;
+        width: 114px;
+}
+.line{
+    background-color:rgb(219, 208, 208);
+    width:1280px ;
+    height: 1px;
+    margin-left: 0px;
+    margin-top: 7px;
+
+}
+.container-two{
+    height:100px;
+
+}
+    
+.left{
+    width:30px;
+    display:flex;
+
+}
+.image{
+    width: 104px;
+    margin-left: 142px;
+    margin-top: 43px;
+    height: 20px;
+}
+.link{
+    width: 31px;
+    margin-left: 44px;
+    margin-top: 45px;
+    height: 7px;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-family: inherit;
+    font-size: 13px;
+    line-height: inherit;
+}
+
+.right{
+    width: 30px;
+    display: flex;
+    margin-left: 963px;
+    margin-top: -19px;
+    padding-left: 0px;
+}
+
+.sign{
+    
+    width: 31px;
+    margin-left: -11px;
+    margin-top: 3px;
+    height: 7px;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-family: inherit;
+    font-size: 13px;
+    line-height: inherit;
+    padding-left: 153px;
+    float:left;
+}
+
+.user{
+    margin-right: -212px;
+    margin-top: 3px;
+    padding-top: 0px;
+    
+}
+.bucket{
+    margin-left: 1058px;
+    margin-top: -27px;
+    width: 30px;
+    float: left;
+}
+
+.center{
+    background-color: #212529;
+    color:#fff;
+    height: 69px;
+    display: flex;
+    margin-top:0px;
+    width: 1280px;
+}
+.head{
+    font-size: 14px;
+    width: 340px;
+    margin-left: 394px;
+    margin-top: 23px;
+
+}
+.btn2{
+    height: 47px;
+    width: 155px;
+    margin-top: 8px;
+    margin-left: -2px;
+    cursor:pointer;
+    display:inline-block;
+    background-color:#e4002b;
+    border:1px #000 solid;
+        border-radius:50px;
+        padding:7px 16px;
+        line-height: 1.2;
+        text-align: center;
+        text-decoration: none;
+        border-color:black;
+        color:white;
+    
+}
+.btn2:hover{
+    background-color: #d72042;
+}
+.pastorder-stripes {
+    width: 40px;
+    height: 20px;
+    background: repeating-linear-gradient(90deg,#e4002b,#e4002b 8px,#fff 0,#fff 16px);
+    margin-top:-48px;
+}
+.container-four{
+    margin-top: -5px;
+    background-color: #f8f7f5;
+    height: 129px;
+    padding-left: 179px;
+    padding-top: 48px;
+    width:1280px;
+}
+.heads{
+    margin-top:41px;
+}
+.browse{
+    height: 50px;
+    padding-top: 121px;
+    padding-left: 162px;
+}
+.horiline{
+    border-top: 2px solid #e3e3e3;
+    display: flex;
+    margin-top: -24px;
+    margin-left: 365px;
+    width: 537px;
+}
+.myimg{
+    width: 17.8vw;
+    height: 13.18519vw;
+    display:inline;
+    margin-top: 107px;
+    margin-left: 152px;
+}
+.offers-1{
+    margin-top:0px;
+    margin-left:208px; 
+    
+}
+.offers-2{
+    margin-top:0px;
+    margin-left:97px; 
+
+}
+.offers-3{
+    margin-top:0px;
+    margin-left:78px; 
+
+}
+.offers-4{
+    margin-top:0px;
+    margin-left:94px; 
+
+}
+.row{
+ display: flex;
+ margin-left: 0px;
+ 
+}
+.col{
+    
+  margin-left: 0px;
+
+}
+.myimg-1{
+    width: 17.8vw;
+    height: 13.18519vw;
+    display:inline;
+    margin-top: 107px;
+    margin-left: 26px;
+
+}
+.myimg-2{
+    width: 17.8vw;
+    height: 13.18519vw;
+    display:inline;
+    margin-top: 107px;
+    margin-left: 26px;
+
+}
+.myimg-3{
+    width: 17.8vw;
+    height: 13.18519vw;
+    display:inline;
+    margin-top: 107px;
+    margin-left: 29px;
+
+}
+.myimg-4{
+    width: 17.8vw;
+    height: 13.18519vw;
+    display:inline;
+    margin-top: 107px;
+    margin-left: 29px;
+
+}
+.myimg-5{
+    width: 17.8vw;
+    height: 13.18519vw;
+    display:inline;
+    margin-top: 107px;
+    margin-left: 29px;
+
+}
+.myimg-6{
+    width: 17.8vw;
+    height: 13.18519vw;
+    display:inline;
+    margin-top: 107px;
+    margin-left: 29px;
+
+}
+.myimg-7{
+    width: 17.8vw;
+    height: 13.18519vw;
+    display:inline;
+    margin-top: 107px;
+    margin-left: 29px;
+
+}
+.row-two{
+    display: flex;
+    margin-left: 120px;
+    margin-top: -71px;
+   }
+
+.offers-5{
+    margin-top:0px;
+    margin-left:72px; 
+
+   }
+.offers-6{
+    margin-top:0px;
+    margin-left:97px; 
+
+}
+.offers-7{
+    margin-top:0px;
+    margin-left:102px; 
+
+}
+.offers-8{
+    margin-top:0px;
+    margin-left:94px; 
+}
+.images{
+    text-decoration: none;
+    color:black;
+    font-weight: bold;
+}
+.images1{
+    text-decoration: none;
+    color:black;
+
+}
+.arrow{
+    width:20px;
+}
+.footer{
+    height: 400px;
+    padding-left: 69px;
+    padding-top: 77px;
+    background-color: #202124;
+    width: 1280px;
+    color: white;
+    margin-top: 100px;
+
+
+}
+.row-one{
+    display: flex;
+    
+}
+.cols-one{
+    font-size: 14px;
+    line-height: 24px;
+    color: #fff;
+    margin-bottom: 10px;
+    padding-left:75px;
+}
+.footer-link{
+    font-size:14px;
+    padding-left:12px;
+    
+}
+.loc{
+    margin-left: 64px;
+    margin-top: -101px;
+    width: 13px;
+}
+.finds{
+    margin-top: 2px;
+    margin-left: 5px;
+    font-size: 14px;
+    color:white;
+}
+.store{
+    padding-left: 18px;
+    margin-left: 26px;
+    margin-top: -78px;
+}
+.KFC-logo{
+    margin-top:-62px;
+}
+.row-second{
+    padding-top: 189px;
+    padding-left: 107px;
+}
+.paras{
+    margin-left: 300px;
+    color: #dbdbdb;
+    font-size: 12px;
+    margin-top: -50px;
+}
+.col-five{
+    margin-left: 816px;
+    margin-top: -27px;
+    padding-left: 42px;
+}
+
+/*----------2nd page------*/
+
